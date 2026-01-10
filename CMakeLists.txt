@@ -40,6 +40,8 @@ file(GLOB_RECURSE SOURCES
 list(FILTER SOURCES EXCLUDE REGEX "main_debug\\.cpp$")
 list(FILTER SOURCES EXCLUDE REGEX "main_fixed\\.cpp$")
 list(FILTER SOURCES EXCLUDE REGEX "main_minimal_test\\.cpp$")
+list(FILTER SOURCES EXCLUDE REGEX "main_test\\.cpp$")
+list(FILTER SOURCES EXCLUDE REGEX "main\\.cpp\\.FIXED$")
 
 # Ensure headers with Q_OBJECT are seen by automoc
 list(APPEND SOURCES ${INC_DIR}/MainWindow.h)
