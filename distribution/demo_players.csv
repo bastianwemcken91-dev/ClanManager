@@ -1,0 +1,6 @@
+Spielername,T17-Name,Level,Gruppe,Teilnahmen,Kommentar,Beitrittsdatum,Dienstrang,Letzte Beförderung,Nächster Rang
+MaxMustermann,Max123,45,Angriff,12,Starker Spieler,2025-02-15,Panzergrenadier,2025-05-01,Unteroffizier
+AnnaBeispiel,AnnaB,60,Angriff,20,Erfahren,2024-06-10,Oberleutnant,2025-01-10,Hauptmann
+OttoNormal,OttoN,30,Verteidigung,3,Neu dabei,2025-11-01,Anwerber/AW,,Panzergrenadier
+KarlKlein,KKlein,50,Verteidigung,15,Teamspieler,2023-09-20,Feldwebel,2024-09-01,Leutnant
+EvaTest,EvaT,28,Panzerwaffe,5,Übt viel,2025-04-01,Anwerber/AW,2025-04-01,Panzergrenadier

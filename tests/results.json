@@ -1,0 +1,33 @@
+{
+  "appdata": "/Users/vwpddah/Library/Application Support/ClanManager",
+  "total_trainings": 10,
+  "players": [
+    {
+      "player": "A",
+      "percent": 20,
+      "months": 4,
+      "activities": 2,
+      "eligible": false,
+      "reasons": [
+        "activities 2 < required 3",
+        "level 79 < required 80"
+      ]
+    },
+    {
+      "player": "B",
+      "percent": 50,
+      "months": 3,
+      "activities": 5,
+      "eligible": true,
+      "reasons": []
+    },
+    {
+      "player": "C",
+      "percent": 100,
+      "months": 13,
+      "activities": 10,
+      "eligible": true,
+      "reasons": []
+    }
+  ]
+}

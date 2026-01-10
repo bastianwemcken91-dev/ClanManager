@@ -1,0 +1,16 @@
+{
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/compile_commands.json",
+    "clangd.arguments": [
+        "--compile-commands-dir=${workspaceFolder}"
+    ],
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/include",
+        "/opt/homebrew/opt/qt/include",
+        "/opt/homebrew/opt/qt/lib/QtCore.framework/Headers",
+        "/opt/homebrew/opt/qt/lib/QtGui.framework/Headers",
+        "/opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers"
+    ],
+    "files.exclude": {
+        "_archive_root/": true
+    }
+}

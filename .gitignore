@@ -1,0 +1,35 @@
+# ClanManager - Ignorierte Dateien
+
+# macOS
+.DS_Store
+*.DS_Store
+
+# Build
+build/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+*.app
+
+# Qt
+*.pro.user
+moc_*
+ui_*
+qrc_*
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Distribution (generierte Dateien)
+distribution/ClanManager.dmg
+distribution/ClanManager.zip
+distribution/ClanManager/*.app
+*.tar.gz
+
+# Temporäre Dateien
+*.tmp
+*.log
